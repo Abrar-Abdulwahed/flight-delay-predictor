@@ -1,0 +1,43 @@
+# Git
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env.*
+.venv/
+
+# IDEs & editors
+.vscode/
+.idea/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Tests & docs
+tests/
+docs/
+
+# Logs
+*.log
+
+# Docker files themselves
+Dockerfile
+docker-compose.yml
+
+# Node
+node_modules/
+
+# Build / dist artifacts
+build/
+dist/
+*.egg-info/
